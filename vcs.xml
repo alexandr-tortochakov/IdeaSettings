@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/alexandr-tortochakov/OOP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alexandr-tortochakov/ATM.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Саня\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Alex\IdeaProjects" />
   </component>
 </application>
