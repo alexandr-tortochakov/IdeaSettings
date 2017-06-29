@@ -1,5 +1,5 @@
 <templateSet group="other">
-  <template name="scnr" value="Scanner scanner = new Scanner(System.in);" toReformat="false" toShortenFQNames="true">
+  <template name="scnr" value="Scanner scanner = new Scanner(System.in);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
