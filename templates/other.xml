@@ -4,4 +4,15 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="brs" value="BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="brf" value="BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream($FILENAME$)));&#10;" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
